@@ -1,4 +1,3 @@
-br>
 <div align='center'>
 	<h1>Hello-rails-backend</h1>
   </div>
